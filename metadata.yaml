@@ -1,0 +1,42 @@
+_repo: The-Passing-of-New-France-a-Chronicle-of-Montcalm_6863
+contributor:
+  creator:
+    editors:
+    - agent_name: Langton, H. H. (Hugh Hornby)
+      alias: Langton, Hugh Hornby
+      birthdate: 1862
+      deathdate: 1953
+      gutenberg_agent_id: '4517'
+      url: http://www.gutenberg.org/2009/agents/4517
+    - agent_name: Wrong, George McKinnon
+      alias: Wrong, George M. (George McKinnon)
+      birthdate: 1860
+      deathdate: 1948
+      gutenberg_agent_id: '1002'
+      url: http://www.gutenberg.org/2009/agents/1002
+      wikipedia: http://en.wikipedia.org/wiki/George_MacKinnon_Wrong
+creator:
+  author:
+    agent_name: Wood, William Charles Henry
+    birthdate: 1864
+    deathdate: 1947
+    gutenberg_agent_id: '986'
+    url: http://www.gutenberg.org/2009/agents/986
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6863'
+language: en
+publication_note: 'Toronto :  [s.n.],  1915'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Chronicles of Canada series: Volume 10'
+subjects:
+- !lcsh 'Montcalm de Saint-Véran, Louis-Joseph, marquis de, 1712-1759'
+- !lcc 'E186'
+- !lcsh 'Canada -- History -- 1755-1763'
+- !lcsh 'United States -- History -- French and Indian War, 1754-1763'
+title: 'The Passing of New France : a Chronicle of Montcalm'
+url: http://www.gutenberg.org/ebooks/6863
